@@ -1,5 +1,5 @@
 numero = 1
-par = 1
+par = 0
 
 while True:
     numero = input(print("Escreva um número: "))
