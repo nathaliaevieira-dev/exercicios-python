@@ -1,4 +1,4 @@
 raio = input("Digite o raio do círculo: ")
-circunferencia = print(float(raio*raio*3.14159))
+circunferencia = (print(f"A circunferência do círculo é: {float(raio) * 2 * 3.14159}"))
 
 
