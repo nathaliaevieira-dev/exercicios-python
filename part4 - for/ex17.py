@@ -1,6 +1,4 @@
-x = range (20)
+x = range (2, 21, 2)
 
-for n in x:
-    print (n % 2 == 0)
-
-#estamos tentando fazer certo
+for numero in x:
+    print(numero)
